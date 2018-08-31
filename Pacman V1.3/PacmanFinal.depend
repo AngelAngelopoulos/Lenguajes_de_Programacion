@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1535122538 source:w:\pacmanfinal\pacman.c
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	"LIB01.h"
+
+1266115814 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1535037015 w:\pacmanfinal\lib01.h
+
+1535100671 source:c:\users\user.voulezvous\downloads\pacmanfinal\pacman.c
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	"LIB01.h"
+
+1266119414 c:\program files\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1535058614 c:\users\user.voulezvous\downloads\pacmanfinal\lib01.h
+
+1535728231 source:w:\codigos\pacmanfinal\pacman.c
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	"LIB01.h"
+	"Interface.h"
+
+1535517979 w:\codigos\pacmanfinal\lib01.h
+
+1535728720 w:\codigos\pacmanfinal\interface.h
+
